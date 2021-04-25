@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SQLite_ACT6_2019D"
